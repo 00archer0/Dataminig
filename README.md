@@ -1,4 +1,4 @@
-Dataminig
+# Dataminig
 
 A python code based Website crawling  bot is a tool which is used to systematically download , converting image  , crop the text material and convert into text and excel file from raw file like scanned file , pdf , text , image files etc. format . our primary objective is to search , browse and extract the data from website . the kind of data from  which we are dealing is not in  simple and sorted form ,  but is too scattered and scanned. Demands of data science and  data analysis is increasing day by day and raw material for this is data and hence data is in Big Demand . one of many objectives of tool is to save the time of users to again and again click , browse and download the file . Bot will  do  this automatically . Bot can be used to convert pdf into image format . this also does cropping of certain part of image file , . To Map various entities into corresponding columns and rows into excel file is also one of our major aspect which are dealing from . 
 
